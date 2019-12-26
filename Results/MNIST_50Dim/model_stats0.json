@@ -1,0 +1,1 @@
+{"exceeded": {"count": 0, "final_losses": [], "final_nfes": [], "final_bnfes": []}, "underflow": {"count": 0, "final_losses": [], "final_nfes": [], "final_bnfes": []}, "success": {"count": 1, "final_losses": [0.012185789851678742], "final_nfes": [26.0], "final_bnfes": [41.0]}}
